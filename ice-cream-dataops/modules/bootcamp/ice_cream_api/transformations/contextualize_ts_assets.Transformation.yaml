@@ -1,5 +1,5 @@
-externalId: create_asset_hierarchy
-name: Create Cognite Asset Hierarchy
+externalId: contextualize_ts_assets
+name: Create contextualize ts assets
 destination:
   dataModel:
     space: cdf_cdm
